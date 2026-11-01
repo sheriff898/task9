@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\task9\task9\bin\Debug\net10.0-windows\task9.exe
+C:\Users\User\source\repos\task9\task9\bin\Debug\net10.0-windows\task9.deps.json
+C:\Users\User\source\repos\task9\task9\bin\Debug\net10.0-windows\task9.runtimeconfig.json
+C:\Users\User\source\repos\task9\task9\bin\Debug\net10.0-windows\task9.dll
+C:\Users\User\source\repos\task9\task9\bin\Debug\net10.0-windows\task9.pdb
+C:\Users\User\source\repos\task9\task9\obj\Debug\net10.0-windows\task9.Form1.resources
+C:\Users\User\source\repos\task9\task9\obj\Debug\net10.0-windows\task9.csproj.GenerateResource.cache
+C:\Users\User\source\repos\task9\task9\obj\Debug\net10.0-windows\task9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\task9\task9\obj\Debug\net10.0-windows\task9.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\task9\task9\obj\Debug\net10.0-windows\task9.AssemblyInfo.cs
+C:\Users\User\source\repos\task9\task9\obj\Debug\net10.0-windows\task9.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\task9\task9\obj\Debug\net10.0-windows\task9.dll
+C:\Users\User\source\repos\task9\task9\obj\Debug\net10.0-windows\refint\task9.dll
+C:\Users\User\source\repos\task9\task9\obj\Debug\net10.0-windows\task9.pdb
+C:\Users\User\source\repos\task9\task9\obj\Debug\net10.0-windows\task9.genruntimeconfig.cache
+C:\Users\User\source\repos\task9\task9\obj\Debug\net10.0-windows\ref\task9.dll
+C:\Users\User\source\repos\task9\task9\obj\Debug\net10.0-windows\task9.csproj.Up2Date
